@@ -10,6 +10,8 @@
 <body>
 	<h1>Casa do Código</h1>
 	
+	<h2>${ sucesso }</h2>
+	
 	<table>
 		<tr>
 			<td>Titulo</td>
