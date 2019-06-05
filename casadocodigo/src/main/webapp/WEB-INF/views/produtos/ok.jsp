@@ -8,5 +8,9 @@
 </head>
 <body>
  <h1>Produto cadastrado com sucesso!</h1>
+
+	<form action="/casadocodigo/produtos" method="GET">
+		<button type="submit">Ver Lista</button>
+	</form>
 </body>
 </html>
